@@ -1,0 +1,23 @@
+commit 881da1c74f3c596681f985eed3fd6af617c939af
+Author: cosrayjamie <jamie.zvirzdin@gmail.com>
+Date:   Fri Mar 29 21:51:11 2019 -0400
+
+    added file1.txt to gitignore
+
+commit 008b7436971847ca4eb9a93cf16c58f7bbb86930
+Author: cosrayjamie <jamie.zvirzdin@gmail.com>
+Date:   Fri Mar 29 21:42:43 2019 -0400
+
+    added gitignore
+
+commit eae44b33eca33f35d4f90ea707317c99c9e86f0b
+Author: cosrayjamie <jamie.zvirzdin@gmail.com>
+Date:   Fri Mar 29 21:16:09 2019 -0400
+
+    added two files
+
+commit 2d1b0009f4648286414dce5280a2afef8c884a7c
+Author: cosrayjamie <jamie.zvirzdin@gmail.com>
+Date:   Fri Mar 29 21:07:47 2019 -0400
+
+    added readme.txt
